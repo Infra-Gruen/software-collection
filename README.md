@@ -9,3 +9,6 @@ A collection of themed lists of (useful) software
 ### Networking
  - asn
  - pathfinder
+
+### Security
+ - dep-scan
