@@ -1,4 +1,4 @@
-# Security
+# Security tools
 
 ## OWASP-depscan
 OWASP-dep-scan/dep-scan [https://github.com/owasp-dep-scan/dep-scan]

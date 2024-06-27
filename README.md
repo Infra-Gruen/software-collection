@@ -10,5 +10,5 @@ A collection of themed lists of (useful) software
  - asn
  - pathfinder
 
-### Security
+### Security tools
  - dep-scan
