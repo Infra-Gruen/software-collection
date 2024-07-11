@@ -16,3 +16,6 @@ A collection of themed lists of (useful) software
 
 ### Auth and IDP
 - oauth2c
+
+### Web
+- httpie
