@@ -12,3 +12,4 @@ A collection of themed lists of (useful) software
 
 ### Security tools
  - dep-scan
+ - sechub
