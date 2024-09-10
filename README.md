@@ -32,3 +32,8 @@ A collection of miscellanious apps (not necessary improving the quality of life)
 
 - ferdium
 - AppImageLauncher
+
+### Monitoring
+
+- uptime-kuma
+- netdata
