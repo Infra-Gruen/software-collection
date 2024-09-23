@@ -12,6 +12,7 @@ A collection of themed lists of (useful) software
 
 - asn
 - pathfinder
+- sniffnet
 
 ### Security tools
 
